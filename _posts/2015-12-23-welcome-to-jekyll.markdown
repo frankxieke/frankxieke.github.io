@@ -17,6 +17,15 @@ If you want to have a project page, make sure that your repository is not named 
 
 I want to be a technological master, so I must spend more time to do it !
 
+
+###this is my first blog
+    #include<stdio.h>
+    int main()
+    {
+        printf("hello world\n");
+        return 0;
+    }
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
