@@ -12,7 +12,7 @@ you must do a lot of things before you can see the hope of success
 
 > i must try a lot of thing. -by frankxie
 
-[myblogbefore](1999-----2007.blog.163.com)
+[myblogbefore](http://baidu.com)
 
 ***
 now i will try my best to write good blog, make good progress.
@@ -25,7 +25,7 @@ now i will try my best to write good blog, make good progress.
 2. second day
 3. third day
 
-** Congratulations **
-* Congratulation *
+**Congratulations**
+*Congratulation*
 
 
