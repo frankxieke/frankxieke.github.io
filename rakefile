@@ -5,7 +5,8 @@ require 'fileutils'
 desc "创建新 post"
 task :new do
   puts "请输入要创建的 post URL："
-    @url = STDIN.gets.chomp
+    #@url = STDIN.gets.chomp
+    url = "frankxieke.github.io"
     puts "请输入 post 标题："
     @name = STDIN.gets.chomp
     puts "请输入 post 子标题："
