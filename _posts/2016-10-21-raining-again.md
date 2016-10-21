@@ -12,5 +12,5 @@ tag: mood
 * i like snow, it is clean though it is cold.
 
 ** hello world **
-[ip_link] (http://1999-----2007.blog.163.com)
-[![my_photo](https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/logo/logo_white_fe6da1ec.png baidupic)](http://www.baidu.com)
+[ip_link](http://1999-----2007.blog.163.com)
+[![my_photo](https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/logo/logo_white_fe6da1ec.png "baidupic")](http://www.baidu.com)
