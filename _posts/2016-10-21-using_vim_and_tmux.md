@@ -13,4 +13,4 @@ using vim and all kinds of plugin, you can do alot of cool things.
 # using tmux
 using tmux you can split your windown freely, it is great fun.
 
-* test *
+* test
