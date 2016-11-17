@@ -10,4 +10,4 @@ tag: mood
 ### today i got my long lost pass which is really wonderfull. thanks to lastpass.
 
 *test bold*
-[mylasspass](www.lastpass.com)
+[mylasspass](http://www.lastpass.com)
