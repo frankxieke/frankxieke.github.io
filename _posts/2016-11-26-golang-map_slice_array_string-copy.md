@@ -7,7 +7,7 @@ date: 2016-11-26 18:58:50 +0800
 categories: tech
 tag: tech
 ---
-````golang code array
+````array
 package main
 
 import (
@@ -31,7 +31,7 @@ the pointer is : 0xc082008580
 the pointer is : 0xc0820001d0
 ````
 
-````golang Slice
+````Slice
 package main
 
 import (
@@ -55,7 +55,7 @@ the pointer is : 0xc082008580
 the pointer is : 0xc082008580
 ````
 
-````golang map
+````map
 package main
 
 import (
@@ -78,4 +78,29 @@ func printPointer(any interface{}) {
 ````Result
 the pointer is : 0xc082007c80
 the pointer is : 0xc082007c80
+````
+
+
+````string
+package main
+
+import (
+    "fmt"
+)
+
+func main() {
+    var strb string
+    strb = "uuu"
+    checkString(strb)
+    fmt.Printf("the pointer is :%p\n", &strb)
+}
+
+func checkString(str string) {
+    fmt.Printf("the pointer is :%p\n", &str)
+}
+
+````
+````Result
+the pointer is :0xc82000a2c0
+the pointer is :0xc82000a2b0
 ````
