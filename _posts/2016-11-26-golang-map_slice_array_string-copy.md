@@ -80,6 +80,8 @@ the pointer is : 0xc082007c80
 the pointer is : 0xc082007c80
 ````
 
+[original_link](http://www.cnblogs.com/aqsmoke/p/3957859.html)
+
 
 ````string
 package main
