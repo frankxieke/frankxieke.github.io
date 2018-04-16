@@ -8,7 +8,8 @@ categories:
 tag: 
 ---
 ## shared memory in linux is like /dev/tmp 
-``` in df -h
+```
+in df -h
 tmpfs              38G  5.0G   33G  14% /run
 tmpfs              95G   29G   66G  31% /dev/shm
 tmpfs             5.0M     0  5.0M   0% /run/lock
